@@ -5,7 +5,7 @@ public class Access_1 extends Access_2
 	private int a= 50;
 	private void display()
 	{
-		System.out.println("Hi Nithya.. Belated Marriage Wishes..");
+		System.out.println("Hi Nithya.... Belated Marriage Wishes..");
 		acc3="oo";
 	}
 	
